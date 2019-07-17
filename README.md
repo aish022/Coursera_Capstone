@@ -1,6 +1,6 @@
 # Coursera_Capstone
 <h><b><u> FINAL PROJECT</u></b></h><br><br>
-<i><b>Introduction-</b></i>
+<b>Introduction-</b>
 
 This study can help anyone who wants to select a best place or an area in Toronto to open their food point. It provides the details of the location, its neighbours, nearby food points, salary and number of people living present in the area  
 
