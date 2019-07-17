@@ -4,12 +4,12 @@
 <b><h2>Capstone Project - The Battle of the Neighborhoods</h2><br>
 Applied Data Science Capstone by IBM/Coursera<br>
 Table of contents<br>
-Introduction: Business Problem<br>
+<ls><ol>Introduction: Business Problem<br>
 Downloading Data<br>
 Methodology<br>
 Results <br>
 Discussion<br>
-Conclusion</b><br><br>
+Conclusion</ol></ls><br><br></b>
 
 <b>Introduction-</b>
 
